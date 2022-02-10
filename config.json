@@ -1,0 +1,17 @@
+{
+    "_Version" : 1.0,
+    "Product": {
+        "apache2": {
+            "logDirectory": "log-sample/", 
+            "fileLogPattern": "access.log", 
+            "fileLogZipPattern": "",
+            "codes": {
+                "200": 0,
+                "404": 0
+            }
+        }
+    },
+    "minutes": 20,
+    "currentDate": "04/Feb/2022:14:31:15"
+
+}
